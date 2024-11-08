@@ -1,4 +1,4 @@
-## Product/Project Manager at ATF Media
+## Product Manager 
 ### Big data, AI enthusiast
 ### My Stack:
 - Python (Bots, DS, ML)
