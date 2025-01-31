@@ -1,13 +1,14 @@
 # 🌟 Welcome to My GitHub! 🌟
 
-Hi there! 👋 I'm **Martynov George**, a **Product Manager** and **Founder of Tech Products** with a passion for **building and launching innovative solutions**. I specialize in **product design, marketing, and development** with experience across various technologies including **Python, C, frontend (JavaScript, CSS, HTML)**, and more. My mission is to bring ideas to life through **well-designed, scalable products**.
+Hi there! 👋
+I'm **Martynov George**, a **Product Manager** and **Founder of Tech Products** with a passion for **building and launching innovative solutions**. I specialize in **product design, marketing, and development** with experience across various technologies including **Python, C, frontend (JavaScript, CSS, HTML)**, and more. My mission is to bring ideas to life through **well-designed, scalable products**.
 
 ---
 
 ## 🌐 **About Me**
 
 💼 **Role:** Product Manager & Tech Founder  
-📍 **Location:** Moscow, Russia 
+📍 **Location:** Moscow, Russia    
 💡 **Currently Working On:** Building AI-powered business automation solutions    
 📒 **Bachelor's:** Information support of innovation activity (Computer Science mixed with Product Management)
  
