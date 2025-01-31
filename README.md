@@ -14,7 +14,11 @@ Hi there! 👋 I'm **Martynov George**, a **Product Manager** and **Founder of T
    - **Product Design:** Wireframes, prototypes, and intuitive user experiences  
    - **Marketing:** Strategy and execution to drive product adoption  
    - **Development:** Hands-on coding experience of building my own full-stack apps with Python, JS and C
-
+📒 **Bachelors:** Information support of innovation activity (Computer Science mixed with Product Management)
+✏️ **Courses**
+   - **21 School by Sber:** Programming school made by the largest Bank Corporation of Russia
+   - **Applied Statistics by Avito Analytics Academy** 
+   - **Open Machine Learning Course**
 ---
 
 ## 🔧 **Technologies and Tools**
