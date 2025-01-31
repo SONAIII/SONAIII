@@ -13,20 +13,21 @@ Hi there! 👋 I'm **Martynov George**, a **Product Manager** and **Founder of T
    - **Launching Tech Products:** From concept to market, I’ve successfully launched several projects  
    - **Product Design:** Wireframes, prototypes, and intuitive user experiences  
    - **Marketing:** Strategy and execution to drive product adoption  
-   - **Development:** Hands-on coding experience with Python, C, and web development technologies
+   - **Development:** Hands-on coding experience of building my own full-stack apps with Python, JS and C
 
 ---
 
 ## 🔧 **Technologies and Tools**
 
-Here are some tools and technologies I worked with:
+Here are some tools and technologies I worked with:    
+
 ![Make.com](https://img.shields.io/badge/Make-5C2D91?style=for-the-badge&logo=zapier&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+
 
 
 
