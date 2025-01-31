@@ -8,13 +8,15 @@ Hi there! 👋 I'm **Martynov George**, a **Product Manager** and **Founder of T
 
 💼 **Role:** Product Manager & Tech Founder  
 📍 **Location:** Moscow, Russia 
-💡 **Currently Working On:** Building AI-powered business automation solutions  
+💡 **Currently Working On:** Building AI-powered business automation solutions    
+📒 **Bachelor's:** Information support of innovation activity (Computer Science mixed with Product Management)
+ 
 🎯 **Experience:**  
    - **Launching Tech Products:** From concept to market, I’ve successfully launched several projects  
    - **Product Design:** Wireframes, prototypes, and intuitive user experiences  
    - **Marketing:** Strategy and execution to drive product adoption  
-   - **Development:** Hands-on coding experience of building my own full-stack apps with Python, JS and C   
-📒 **Bachelors:** Information support of innovation activity (Computer Science mixed with Product Management)     
+   - **Development:** Hands-on coding experience of building my own full-stack apps with Python, JS and C
+ 
 ✏️ **Courses**
    - **21 School by Sber:** Programming school made by the largest Bank Corporation of Russia
    - **Applied Statistics by Avito Analytics Academy** 
